@@ -1,4 +1,6 @@
-## Hi there 👋, my name is J. Lucas Torres
+# Hi there 👋, my name is Lucas
+
+## about me
 
 <!--
 **sirlucast/sirlucast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,8 +41,10 @@ I am a chilean Software Engineer... (i'm still writting this :P)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-J._Lucas_Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=494a4c)](https://www.linkedin.com/in/sirlucast)
 [![Twitter](https://img.shields.io/badge/Twitter-@sirlucast-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=494a4c)](https://twitter.com/sirlucast)
+[![HackerRank](https://img.shields.io/badge/HackerRank-@sirlucast-2dc663?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=494a4c)](https://www.hackerrank.com/sirlucast)
 [![Web](https://img.shields.io/badge/My_Website-(soon)-8b4be5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=494a4c)](https://sirlucast.ninja)
+[![Web](https://img.shields.io/badge/CNTX_site-cntx.cl-225277?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=494a4c)](https://cntx.cl)
 
-<!-- ### Contact me:
+### Contact me:
 
-[![Email](https://img.shields.io/badge/jlmax.torres@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=494a4c)](mailto:jlmax.torres@gmail.com) -->
+[![Email](https://img.shields.io/badge/jlmax.torres@gmail.com-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=494a4c)](mailto:jlmax.torres@gmail.com)
