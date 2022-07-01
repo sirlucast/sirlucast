@@ -23,6 +23,7 @@ I think one of the best ways to learn and improve our skills is by messing up. O
 
 <!-- [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=494a4c)]("#") -->
 <!-- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=494a4c)]("#") -->
+[![Golang](https://img.shields.io/badge/Golang-29beb0?style=for-the-badge&logo=go&logoColor=white&labelColor=494a4c)]("#")
 [![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white&labelColor=494a4c)]("#")
 [![VueJS](https://img.shields.io/badge/Vue.js-41b883?style=for-the-badge&logo=vue.JS&logoColor=white&labelColor=494a4c)]("#")
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=494a4c)]("#")
