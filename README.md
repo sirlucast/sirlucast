@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a chilean Software Engineer, currently working at Cornershop by Uber as Backend engineer (python), constantly improving my english (so please, if a make mistakes when I'm speaking/writing, don't be afraid to correct me).
-I think one of the best ways to learn amd improve our skills is making mistakes. Obviusly, trying to doing good the at first time and, never stop learning or trying new things. So waht's next challenge?
+I am a Chilean Software Engineer, currently working at Uber (currently working with Golang), constantly improving my English (so please, if I make mistakes when speaking/writing, don't be afraid to correct me).
+I think one of the best ways to learn and improve our skills is by messing up. Obviously, the goal is to get it right the first time and never stop learning or trying new things. What's the next challenge?
 
 ### Skills
 
